@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img width="2048" height="2389" alt="HXPBWq" src="HXPBWq.png" />
+<img width="204.8" height="238.9" alt="HXPBWq" src="HXPBWq.png" />
 
 
 <!--
