@@ -2,17 +2,17 @@
 
 ### Mechatronics & Robotics Engineer | Bridging the gap between Mechanical Design and Intelligent Control
 
-I am a Master's student at **Politecnico di Milano** specializing in robotics, control systems, and deep learning. I love building things that move—and teaching them how to move intelligently.
+I am a Master's graduate from **Politecnico di Milano** specializing in robotics, control systems, and deep learning.
 
 ---
-
-### 🚀 What I'm working on
+<!---
+### 🚀 My recent projects:
 - 🎓 **Master's Thesis:** Developing a Deep Learning pipeline (GNNs & Transformers) for automated CAM in robotic manufacturing.
 - 🤖 **Robotic Manipulation:** Integrating LLMs and Vision (CLIPort/SayCan) for high-level robot task planning.
 - 🏎️ **Control Systems:** Refining real-time LQR and Sliding Mode control for unstable systems.
 
 ---
-
+--->
 ### 🛠️ Tech Stack
 
 | Category | Tools & Languages |
