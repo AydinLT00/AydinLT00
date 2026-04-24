@@ -3,6 +3,7 @@
 ### Mechatronics & Robotics Engineer | Bridging the gap between Mechanical Design and Intelligent Control
 
 I am a Master's graduate from **Politecnico di Milano** specializing in robotics, control systems, and deep learning.
+🎓 **Master's Thesis:** Developing a Deep Learning pipeline (GNNs & Transformers) for automated CAM in robotic manufacturing.
 
 ---
 <!---
